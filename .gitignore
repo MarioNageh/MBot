@@ -1,0 +1,10 @@
+.idea/
+venv/
+./venv/
+.env
+/env
+cryptography/rc5.py
+cryptography/auth_cryptography.py
+packets/game/server_diffie_hellman.py
+GameMap.dat
+map.bin
